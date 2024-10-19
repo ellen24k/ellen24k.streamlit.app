@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("ellen24k")
+
 
 st.markdown("""
     <script>
@@ -9,5 +9,5 @@ st.markdown("""
         }, 3000); // 3초 후에 리다이렉트
     </script>
 """, unsafe_allow_html=True)
-
-st.write("3초 후에 네이버로 이동합니다...")
+# st.write("ellen24k")
+# st.write("3초 후에 네이버로 이동합니다...")
