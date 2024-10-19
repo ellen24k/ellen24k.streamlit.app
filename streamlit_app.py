@@ -1,5 +1,3 @@
-st.write("ellen24k")import streamlit as st
-
 
 
 import streamlit as st
