@@ -1,6 +1,6 @@
 services:
   app:
-    image: streamlit
+    image: streamlit/streamlit
     container_name: streamlit
     ports:
       - "8502:8502"
