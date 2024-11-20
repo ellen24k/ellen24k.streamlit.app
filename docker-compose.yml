@@ -1,5 +1,6 @@
 services:
   app:
+    build: .
     container_name: streamlit_test
     ports:
       - "8502:8502"
