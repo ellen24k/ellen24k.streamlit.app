@@ -1,6 +1,5 @@
 services:
   app:
-    image: my_streamlit_test
     container_name: streamlit_test
     ports:
       - "8502:8502"
